@@ -1,0 +1,19 @@
+{
+  "Re": 259,
+  "neu": 64,
+  "layers": 4,
+  "noise": 0.0,
+  "grid": 41,
+  "radius": 1.0,
+  "normalize": "layerwise",
+  "orthogonalize": true,
+  "ckpt_prefix": "model_adam",
+  "ckpt_count": 1,
+  "center_ckpt": "model_adam-5000.pt",
+  "device": "privateuseone:0",
+  "domain_points": 5019,
+  "wall_points": 21,
+  "top_points": 21,
+  "obs_points": 10,
+  "obs_source": "vkd"
+}
