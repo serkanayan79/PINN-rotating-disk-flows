@@ -1,0 +1,19 @@
+@software{serkan_ayan_2026_19040446,
+  author       = {Serkan Ayan},
+  title        = {serkanayan79/PINN-rotating-disk-flows: Production
+                   Files
+                  },
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.19040446},
+  url          = {https://doi.org/10.5281/zenodo.19040446},
+  swhid        = {swh:1:dir:65207b783d93ad546240fedb37ab35b9a77a41dd
+                   ;origin=https://doi.org/10.5281/zenodo.19040445;vi
+                   sit=swh:1:snp:a04601b92314ef3fb23573be7923a08f2374
+                   ed10;anchor=swh:1:rel:559f4e6d14d046d12a09c868af77
+                   ccf9241fbe90;path=serkanayan79-PINN-rotating-disk-
+                   flows-b16ae66
+                  },
+}
