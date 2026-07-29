@@ -1,0 +1,2 @@
+Re,a_amp,r_train,r_eval,n_hidden_layers,neurons_per_layer,activation,E_U_relL2,E_V_relL2,E_W_relL2,u_prime_r_eval_eta0,v_prime_r_eval_eta0,w_r_eval_etaL,Rel_U_mean,Rel_V_mean,Rel_W_mean
+196,0.12,1.0,1.0,4,64,tanh,0.05925842747092247,0.004994771908968687,0.008352898061275482,0.5650892853736877,-0.2018362283706665,-0.9342555999755859,494.83304471231116,203.61820552708713,294.42752357892095
